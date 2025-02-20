@@ -13,14 +13,7 @@ This project is a real estate price prediction tool built using Random Forest Re
 
 5. Scalability: Designed for easy deployment and scalability.
 
-## Installation
-
-Clone the repository:  
-git clone https://github.com/yourusername/real-estate-prediction.git
-cd real-estate-prediction
-
-Install dependencies:
-pip install -r requirements.txt
+## How to run the app
 
 Run the Streamlit app: streamlit run app.py
 
