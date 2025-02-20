@@ -24,15 +24,15 @@ Run the Streamlit app: streamlit run app.py
 
 ## File Structure
 
+Advanced Real Estate Valuation with Ensemble Regression Models.ipynb: The source code for the project.
+
 app.py: Streamlit web app for real-time predictions.
 
-random_forest_model.pkl: Trained Random Forest model.
+advanced_housing_test_dataset.csv: csv file containing test data.
 
-scaler.pkl: Preprocessing scaler for input data.
+advanced_housing_train_dataset.csv: csv file containing training data.
 
-feature_columns.pkl: List of feature names for user input.
-
-Advanced Real Estate Valuation with Ensemble Regression Models.ipynb: The source code for the project.
+data_description.txt: description of each feature.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
