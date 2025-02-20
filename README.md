@@ -32,9 +32,13 @@ Run the Streamlit app: streamlit run app.py
 ## File Structure
 
 app.py: Streamlit web app for real-time predictions.
+
 random_forest_model.pkl: Trained Random Forest model.
+
 scaler.pkl: Preprocessing scaler for input data.
+
 feature_columns.pkl: List of feature names for user input.
+
 Advanced Real Estate Valuation with Ensemble Regression Models.ipynb: The source code for the project.
 
 ## License
