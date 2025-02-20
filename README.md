@@ -1,4 +1,4 @@
-# Advanced-Real-Estate-Prediction-Tool
+# Advanced Real Estate Prediction Tool
 This project is a real estate price prediction tool built using Random Forest Regression and deployed as a web application using Streamlit. The model is trained on an extensive dataset with 287 features, processed with feature scaling, encoding, and outlier handling.
 
 ## Features
@@ -17,6 +17,7 @@ This project is a real estate price prediction tool built using Random Forest Re
 
 Clone the repository:  
 git clone https://github.com/yourusername/real-estate-prediction.git
+
 cd real-estate-prediction
 
 Install dependencies:
