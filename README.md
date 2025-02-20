@@ -17,7 +17,6 @@ This project is a real estate price prediction tool built using Random Forest Re
 
 Clone the repository:  
 git clone https://github.com/yourusername/real-estate-prediction.git
-
 cd real-estate-prediction
 
 Install dependencies:
