@@ -39,7 +39,7 @@ data_description.txt: description of each feature.
 https://youtu.be/SqGzcR2b8rc
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE. See the LICENSE file for more details.
 
 ## Author
 Developed by Nilanjana Jamindar, Nithish Gowda KJ, Sanjana O R, Shama S K.
